@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-![HexRenamelogo](
+[![HEX.png](https://i.postimg.cc/8crH4Ywd/HEX.png)](https://postimg.cc/K3xBvJ64)
 
 <h3 align="center">HEXRename</h3>
 
