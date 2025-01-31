@@ -1,4 +1,4 @@
-<div align="center">
+_<div align="center">
 <h3 align="center">HEXRename</h3>
 
 
@@ -27,7 +27,7 @@ pip install Pillow
 ``
 
 ### IMPORTANT
-Change the PATH directory inside the file to the directory that your image is stored.
+Change the PATH directory inside the file (HEX_rename.py) to the directory that your image is stored.
 
 ## Usage
 
