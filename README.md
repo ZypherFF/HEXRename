@@ -1,4 +1,4 @@
-_<div align="center">
+<div align="center">
 <h3 align="center">HEXRename</h3>
 
 
