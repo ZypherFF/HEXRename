@@ -30,7 +30,7 @@ pip install Pillow
 ``
 
 ### IMPORTANT
-Change the PATH directory inside the file (HEX_rename.py) to the directory that your image is stored.
+Change the PATH directory inside the file (HEX_rename.py) to the directory that your image layers are stored (u can use VS CODE or just Notepad to change it if u want to.)
 
 ## Usage
 
